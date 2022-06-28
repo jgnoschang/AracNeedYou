@@ -1,0 +1,4 @@
+repository "SpiderProject@ArtificiumStudio@cloud"
+  path "/"
+    smartbranch "/main/Programação"    
+     

@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: f56b7072c64d5a544917f833d3787935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5695909650575044992
+    second: spider_F copiar_0
+  - first:
+      213: 9099386070566288473
+    second: spider_F copiar_2
+  - first:
+      213: -8137821772466933849
+    second: spider_F copiar_4
+  - first:
+      213: 3219707524816523428
+    second: spider_F copiar_5
+  - first:
+      213: -6262692882777851192
+    second: spider_F copiar_6
+  - first:
+      213: 941479581744798038
+    second: spider_F copiar_7
+  - first:
+      213: 3889897761122347157
+    second: spider_F copiar_8
+  - first:
+      213: -7584229316883936014
+    second: spider_F copiar_9
+  - first:
+      213: 6300390915762153811
+    second: spider_F copiar_10
+  - first:
+      213: 8062430037562728401
+    second: spider_F copiar_12
+  - first:
+      213: 5888137624839447098
+    second: spider_F copiar_13
+  - first:
+      213: 2092042236050922515
+    second: spider_F copiar_14
+  - first:
+      213: 8739222549712263272
+    second: spider_F copiar_15
+  - first:
+      213: 5009268332763044878
+    second: spider_F copiar_18
+  - first:
+      213: -7407422985047390432
+    second: spider_F copiar_19
+  - first:
+      213: 4374417723001518253
+    second: spider_F copiar_20
+  - first:
+      213: 927350660641450408
+    second: spider_F copiar_21
+  - first:
+      213: 8994287333692580180
+    second: spider_F copiar_22
+  - first:
+      213: 4264556183377057933
+    second: spider_F copiar_23
+  - first:
+      213: -2432935761503756339
+    second: spider_F copiar_24
+  - first:
+      213: -6114662768604117452
+    second: spider_F copiar_25
+  - first:
+      213: -4227751043901347974
+    second: spider_F copiar_27
+  - first:
+      213: 1751357833320173819
+    second: spider_F copiar_29
+  - first:
+      213: 8628826142374314995
+    second: spider_F copiar_31
+  - first:
+      213: 8293525598543398907
+    second: spider_F copiar_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_F copiar_0
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2399
+        width: 3209
+        height: 3153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e41ccd95014f0b0800000000000000
+      internalID: -5695909650575044992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_2
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 5453
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbd3aab63874e70800000000000000
+      internalID: 9099386070566288473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_4
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 5314
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af2ba6c636a01f80800000000000000
+      internalID: -8137821772466933849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_5
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 5330
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a057516fe2beac20800000000000000
+      internalID: 3219707524816523428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_6
+      rect:
+        serializedVersion: 2
+        x: 6657
+        y: 5326
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab8a811027619a0800000000000000
+      internalID: -6262692882777851192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_7
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 5326
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599e2101bec01d00800000000000000
+      internalID: 941479581744798038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_8
+      rect:
+        serializedVersion: 2
+        x: 7414
+        y: 5326
+        width: 335
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e8487761bbf530800000000000000
+      internalID: 3889897761122347157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_9
+      rect:
+        serializedVersion: 2
+        x: 10451
+        y: 5318
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc87088e976fb690800000000000000
+      internalID: -7584229316883936014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_10
+      rect:
+        serializedVersion: 2
+        x: 9712
+        y: 5324
+        width: 521
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e910382c7f6750800000000000000
+      internalID: 6300390915762153811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_12
+      rect:
+        serializedVersion: 2
+        x: 10369
+        y: 5249
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9d5f076183ef60800000000000000
+      internalID: 8062430037562728401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_13
+      rect:
+        serializedVersion: 2
+        x: 10412
+        y: 5284
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ea2d19fdd6b150800000000000000
+      internalID: 5888137624839447098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_14
+      rect:
+        serializedVersion: 2
+        x: 10897
+        y: 5125
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cddee545d680d10800000000000000
+      internalID: 2092042236050922515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_15
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 4869
+        width: 8
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868dea84b94f74970800000000000000
+      internalID: 8739222549712263272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_18
+      rect:
+        serializedVersion: 2
+        x: 4659
+        y: 4870
+        width: 251
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c54f6220f748540800000000000000
+      internalID: 5009268332763044878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_19
+      rect:
+        serializedVersion: 2
+        x: 6863
+        y: 4872
+        width: 486
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027cf239a0c833990800000000000000
+      internalID: -7407422985047390432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_20
+      rect:
+        serializedVersion: 2
+        x: 7693
+        y: 4872
+        width: 475
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8bdae0ebd05bc30800000000000000
+      internalID: 4374417723001518253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_21
+      rect:
+        serializedVersion: 2
+        x: 9643
+        y: 4860
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9e1c5338c9edc00800000000000000
+      internalID: 927350660641450408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_22
+      rect:
+        serializedVersion: 2
+        x: 9998
+        y: 4866
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451aa8c1da022dc70800000000000000
+      internalID: 8994287333692580180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_23
+      rect:
+        serializedVersion: 2
+        x: 9833
+        y: 4855
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8892e2114fbe2b30800000000000000
+      internalID: 4264556183377057933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_24
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 4787
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf593ea0d97c3ed0800000000000000
+      internalID: -2432935761503756339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_25
+      rect:
+        serializedVersion: 2
+        x: 4396
+        y: 4749
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368b0cdb9a542ba0800000000000000
+      internalID: -6114662768604117452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_27
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3712
+        width: 6094
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77297d33d20455c0800000000000000
+      internalID: -4227751043901347974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_29
+      rect:
+        serializedVersion: 2
+        x: 10771
+        y: 4373
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf095a99ba21e4810800000000000000
+      internalID: 1751357833320173819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_31
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 3477
+        width: 34
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f343d4b8afbfb770800000000000000
+      internalID: 8628826142374314995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_F copiar_32
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 2399
+        width: 5761
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c9c44795881370800000000000000
+      internalID: 8293525598543398907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

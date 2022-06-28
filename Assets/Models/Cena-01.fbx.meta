@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 9a7c1305b4ec6ee4c8cd5c255fa93f9e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -4950097755827996427
+    second: Fruteira|Cooker.001Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apple
+    second: {fileID: 2100000, guid: 07b0778638ae5234fa1dc44ff806a369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apple-01
+    second: {fileID: 2100000, guid: 3d6307459e3aaf948a43d711bd50245d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Balc\xE3o"
+    second: {fileID: 2100000, guid: 9bb051791b756b0499712927bb1531ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Balc\xE3o-01"
+    second: {fileID: 2100000, guid: ccdf8ede56652e44abbd1f6ec4e26e5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banana
+    second: {fileID: 2100000, guid: 901e40ae43f30314bb4983142434c847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banana-01
+    second: {fileID: 2100000, guid: c1dcc24227e781e499127bc0a4ab40d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banana-02
+    second: {fileID: 2100000, guid: 40001c9881f564f4d85f3003b3b64ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowl
+    second: {fileID: 2100000, guid: cf29ea211f92f334aa38daa7f49262c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bundinha.001
+    second: {fileID: 2100000, guid: b3a8df4a4715a4e4fba222917ceb98a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buxa
+    second: {fileID: 2100000, guid: db9219698f20a8847ae28b99c89b259b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buxa-01
+    second: {fileID: 2100000, guid: d444d7d09a0867f44b9f32ca98f31156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Closet
+    second: {fileID: 2100000, guid: 78559355e1c4a5b4592aaed1cffe3166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Closet-02
+    second: {fileID: 2100000, guid: 06cb0f0c0b8df504a8d7fd4c297cb8bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cooker
+    second: {fileID: 2100000, guid: 68f72a0dd0916104fafc754871db4f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cooker-03
+    second: {fileID: 2100000, guid: 60f52c2177413ff4b9193699b31f3a0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cooker-04
+    second: {fileID: 2100000, guid: 100852df9a47a5b41892e14762b6ea54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cooker-2
+    second: {fileID: 2100000, guid: 7e7f4a068270c304cab3b487d682829c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cooker-5
+    second: {fileID: 2100000, guid: 7e7617d40493c5e42be76374d6310c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cup-Talheres
+    second: {fileID: 2100000, guid: a139dbed361a4ba4caa74434a1c1ddb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detergente
+    second: {fileID: 2100000, guid: d07c308bb1e1bb249ba94ff5c5f9a890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detergente-01
+    second: {fileID: 2100000, guid: 0bbb6f1b116ac9b4295d18f0d3a62266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detergente-02
+    second: {fileID: 2100000, guid: 97144d246afd3e841b25b2e6476bcf65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detergente02
+    second: {fileID: 2100000, guid: 76ec2ed5f088a4644b7fb180c835ff29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detergente02-01
+    second: {fileID: 2100000, guid: d09fc0b5824fd184c876f0ec17733fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detergente02-02
+    second: {fileID: 2100000, guid: 343e42cab1709bb4188e433e664fed3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 39cd7186991077b4e9796b4ad939a557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door handle_
+    second: {fileID: 2100000, guid: 704c27e824956ae4fb428e512f14c917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door-01
+    second: {fileID: 2100000, guid: 2d5685c423d6d924cbe3529ca7484945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door-02
+    second: {fileID: 2100000, guid: b4882abd10e714d438448ea16b3a5a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door-Cooker
+    second: {fileID: 2100000, guid: bc4499e52803bfd4ab759115032fcd8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorHandle-Refrigerator
+    second: {fileID: 2100000, guid: 52c95eaa8b3717b4ba65070007527548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye.002
+    second: {fileID: 2100000, guid: a05b0e25098e2b242bb46a32bf52247b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeHole.001
+    second: {fileID: 2100000, guid: 97179a48301fcb040a2ce60c0469ad3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan-01
+    second: {fileID: 2100000, guid: 4f7c577e917194a42820f1e8d0c5466b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan-02
+    second: {fileID: 2100000, guid: a21c1a5a69c96fa4ab5dd750d888b748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flanela
+    second: {fileID: 2100000, guid: 935701ee4af7dce4a812213751079aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flowers
+    second: {fileID: 2100000, guid: c0636d4c46f1476428b4b38f3a61466f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flowers-01
+    second: {fileID: 2100000, guid: b98060a34c711d14fb53deee38a0b5bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flowers-02
+    second: {fileID: 2100000, guid: 9b19b275afd76fc4689f52fcc9a2051a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flowers01-01
+    second: {fileID: 2100000, guid: d188dd3e8fb3de042b9390ba94c4e2f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flowers01-Water
+    second: {fileID: 2100000, guid: 9eedfb5bf1b8ce94c87b236ed6e7136f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forma
+    second: {fileID: 2100000, guid: 7addccf489afaf2458af73c95d25e45f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruteira
+    second: {fileID: 2100000, guid: 7705c481558895540917feda5b6f06b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.001
+    second: {fileID: 2100000, guid: e5733dfe2615c5f40a08d0bbbb316859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holding.001
+    second: {fileID: 2100000, guid: 625f64614002e2141a0482f5b29ba42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House-Nail
+    second: {fileID: 2100000, guid: 772d0cee48a3371459a605f55ae80ab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House-Wall-02
+    second: {fileID: 2100000, guid: fefb77061d268c74fa528c1c83dc3e34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House-Wall-03
+    second: {fileID: 2100000, guid: 4b4e22206b7ff244d9f79eef94b986c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House-Wood
+    second: {fileID: 2100000, guid: 447aa5d503544e24dba8c54faad97b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar
+    second: {fileID: 2100000, guid: 5d2671dd88d0b7d47b4926f29cca0ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar-02
+    second: {fileID: 2100000, guid: 685decf60c511af429d77722f043a67b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar-05
+    second: {fileID: 2100000, guid: 2e644487ea7711e42a5889f1a583198a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar-06
+    second: {fileID: 2100000, guid: 7da4817b566d403409eb06828f6b1b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar-3
+    second: {fileID: 2100000, guid: 1f191acc73a5d9041a09ce53c9eb1a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar02-01
+    second: {fileID: 2100000, guid: 040d16ce311adce43a73b1973f3fcb19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar03-01
+    second: {fileID: 2100000, guid: c9e244ba1436a5e4da775a0f5d9d07a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jar04-01
+    second: {fileID: 2100000, guid: 41fb90a100609ca4284327eb121cdd68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife-01
+    second: {fileID: 2100000, guid: be076a1b4643b674da74033e169a7025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife-02
+    second: {fileID: 2100000, guid: a222295c89faae64f95cf6c06abe296c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knife-03
+    second: {fileID: 2100000, guid: 8fb6f480e5db76842b9dac72d30dac9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "La\xE7o.001"
+    second: {fileID: 2100000, guid: a109e16fa7353fe43b62d9f716e7bc00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Listras.001
+    second: {fileID: 2100000, guid: 1b73730379ffe174a8423c40621e5ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: e1c567b8848beee4797a08dd02a9d820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 5533f7b5ed58ffc4fa61edb333bbcb4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange-01
+    second: {fileID: 2100000, guid: 6b8468ff8937acd4e8500829d28c34cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange-02
+    second: {fileID: 2100000, guid: c8b28b46da6ca72458bb7e39e78cff57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan
+    second: {fileID: 2100000, guid: e0d1d55027730d94ab2a78f7b659ff09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan02-01
+    second: {fileID: 2100000, guid: 70e7977c248fd65428ec5bc0769108ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan02-02
+    second: {fileID: 2100000, guid: e19d9b088b6a46b4599d6f7ea1915b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan02-03
+    second: {fileID: 2100000, guid: ad36b1b8eafef4047ae907f730dde1ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan03-01
+    second: {fileID: 2100000, guid: ddddbe310f20fe64ba4aa1a9a15bad33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan04-01
+    second: {fileID: 2100000, guid: 92795c23ed9ac3c4999a75133a360e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan04-02
+    second: {fileID: 2100000, guid: 3ffd38bac7950ee44beabeff92b5c640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia
+    second: {fileID: 2100000, guid: 5ad6aa7d408c02042bd9cf59a703bd68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pia-01
+    second: {fileID: 2100000, guid: f47665b19a94b8a40bc4c04ad33da723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant
+    second: {fileID: 2100000, guid: 2b26c15afc690a24fa7a301b2ac9d290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant02
+    second: {fileID: 2100000, guid: 0c350ec2785b3a34e99cce933fa966c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate
+    second: {fileID: 2100000, guid: 010bd8661d2498d4ebe9b6161b1edd40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupil.001
+    second: {fileID: 2100000, guid: dd98e4cf6dad22f43a392292a1fb430c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Push Button
+    second: {fileID: 2100000, guid: 5dcd63574fdc5b94b9149a9fee38df2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Refrigerator
+    second: {fileID: 2100000, guid: c9c9f478adafb7d4581cea25c9377f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shair
+    second: {fileID: 2100000, guid: cb3a3bae39c188c4391c83e870e964db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa
+    second: {fileID: 2100000, guid: 3a09456d5f26734449449f1bfeb9f26c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa-01
+    second: {fileID: 2100000, guid: 6a8eafa5639944c4c9bf989139842807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa-02
+    second: {fileID: 2100000, guid: 46dbcd332107d0046b4c56840adc5334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa-03
+    second: {fileID: 2100000, guid: 487634bff60c22543be309728e8a36ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa2-01
+    second: {fileID: 2100000, guid: 009f89ce979d9364ca616ce14b8b31d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripes
+    second: {fileID: 2100000, guid: df854fe54097d094e88310c23174acb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: 3fa9dbab9abf89d41a44757d5affbc7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table-Cloth
+    second: {fileID: 2100000, guid: 5f5f5c00f38567644a7fe04c068f9f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Talher
+    second: {fileID: 2100000, guid: ce4c30da23895ee429a4f056b95c045e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torneira
+    second: {fileID: 2100000, guid: 861042442601e824880ba46c70bc4894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torneira-01
+    second: {fileID: 2100000, guid: b508ad26fdb251342ab82afc97608601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFIlter-02
+    second: {fileID: 2100000, guid: 6dec651ed7310de45931703e9de3e0c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFilter-01
+    second: {fileID: 2100000, guid: 9fc53cb039c51f64f9dd339bdccf1464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFilter-04
+    second: {fileID: 2100000, guid: 4b5c1ba869ddd76429ac24abcec27650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFilter-05
+    second: {fileID: 2100000, guid: 5610d2cf2a4ce93439f849a2f5be2f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterMellon
+    second: {fileID: 2100000, guid: 0d49de24ea933ae4c89a446b3a4ec479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterPan
+    second: {fileID: 2100000, guid: 896ac869d056ed944be9ab922f7c8cd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Web
+    second: {fileID: 2100000, guid: 33d17238b5b3c824ba91a54c8398057c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Widow-Cooker
+    second: {fileID: 2100000, guid: 0e7144c79da31f24c9468a2735f15c9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 16e300b3b5a6e2848bf7c3dfb50b4e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window-02
+    second: {fileID: 2100000, guid: d62aae4ff2a6de9489b090fce9f660d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window-House
+    second: {fileID: 2100000, guid: bff22038bfb5c7e44adcd4e5fd6bc554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 268149817ee07a9449fa435c5f8efa52, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
